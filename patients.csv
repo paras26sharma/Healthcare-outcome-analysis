@@ -1,0 +1,201 @@
+﻿PatientID,Name,Age,Gender,DiagnosisID,AdmissionDate,DischargeDate,OutcomeID,TreatmentCost,DiagnosisName,OutcomeName,Length of stay,Abnormal Blood Sugar Flag,Risk Score
+1,Jorge Alexander,74,M,10,4/25/2025,5/4/2025,3,6435,Liver Disease,Deceased,9,No Data,High Risk
+2,Rachel Bell,50,M,6,5/1/2025,5/12/2025,1,4541,COPD,Recovered,11,Normal,Low Risk
+3,James Hayes,84,M,7,4/23/2025,5/6/2025,2,7834,Cancer,Complicated,13,High,High Risk
+4,Cody Roy,85,M,6,4/17/2025,4/29/2025,1,7155,COPD,Recovered,12,No Data,High Risk
+5,Heather Robinson,56,F,10,7/3/2025,7/16/2025,2,5077,Liver Disease,Complicated,13,No Data,High Risk
+6,Mark Price,63,F,10,5/21/2025,5/26/2025,2,5928,Liver Disease,Complicated,5,No Data,High Risk
+7,Thomas Foster,44,M,4,12/3/2025,12/13/2025,1,2000,Asthma,Recovered,10,Normal,Low Risk
+8,Christian Sanchez,90,F,3,3/17/2025,3/31/2025,2,8376,Heart Disease,Complicated,14,No Data,High Risk
+9,Emily Rivera,90,M,6,6/27/2025,7/12/2025,2,9696,COPD,Complicated,15,Normal,High Risk
+10,Emily Wright,71,M,3,5/19/2025,5/29/2025,1,5862,Heart Disease,Recovered,10,No Data,High Risk
+11,Sarah Ross,85,F,4,6/22/2025,6/28/2025,2,4231,Asthma,Complicated,6,No Data,High Risk
+12,Melinda Morgan,64,M,1,11/1/2025,11/12/2025,1,2562,Hypertension,Recovered,11,High,Low Risk
+13,Jennifer Butler,53,M,10,12/4/2025,12/19/2025,2,5888,Liver Disease,Complicated,15,No Data,High Risk
+14,Melinda Sanchez,79,M,10,3/14/2025,3/23/2025,1,5541,Liver Disease,Recovered,9,No Data,High Risk
+15,Laura Cooper,27,F,9,6/28/2025,7/9/2025,2,6301,Kidney Disease,Complicated,11,No Data,High Risk
+16,Nicholas Logan,46,F,10,5/27/2025,6/7/2025,1,7108,Liver Disease,Recovered,11,High,Low Risk
+17,Steven Torres,57,M,9,1/5/2025,1/20/2025,1,7797,Kidney Disease,Recovered,15,Normal,Low Risk
+18,Benjamin Cooper,22,M,4,2/14/2025,2/17/2025,1,2000,Asthma,Recovered,3,No Data,Low Risk
+19,Christian Bell,71,F,3,11/4/2025,11/13/2025,1,2000,Heart Disease,Recovered,9,No Data,High Risk
+20,Jessica Ross,71,M,4,6/3/2025,6/18/2025,1,2000,Asthma,Recovered,15,No Data,High Risk
+21,Jorge Ward,54,M,2,1/3/2025,3/5/2025,2,5336,Diabetes,Complicated,61,High,High Risk
+22,Daniel Foster,56,M,1,1/22/2025,1/25/2025,1,2184,Hypertension,Recovered,3,No Data,Low Risk
+23,Michael Bennett,45,M,3,2/19/2025,2/28/2025,1,4083,Heart Disease,Recovered,9,Normal,Low Risk
+24,Michael Morgan,58,F,6,4/17/2025,4/30/2025,1,5733,COPD,Recovered,13,Normal,Low Risk
+25,Sabrina Green,49,M,2,4/23/2025,5/1/2025,1,4604,Diabetes,Recovered,8,High,Low Risk
+26,Steven Patel,71,M,1,1/17/2025,1/21/2025,1,3098,Hypertension,Recovered,4,No Data,High Risk
+27,Daniel Lynch,54,M,8,2/25/2025,2/28/2025,1,2284,Arthritis,Recovered,3,No Data,Low Risk
+28,Jessica Patel,74,M,6,4/22/2025,5/1/2025,2,6177,COPD,Complicated,9,Normal,High Risk
+29,Carol Ryan,18,M,2,12/4/2025,12/16/2025,1,3475,Diabetes,Recovered,12,No Data,Low Risk
+30,Kimberly Murphy,36,F,9,2/20/2025,2/27/2025,1,4306,Kidney Disease,Recovered,7,Normal,Low Risk
+31,Stacy Henderson,55,M,8,5/27/2025,5/29/2025,1,2284,Arthritis,Recovered,2,No Data,Low Risk
+32,Olivia Castillo,90,M,2,6/27/2025,7/7/2025,2,6799,Diabetes,Complicated,10,No Data,High Risk
+33,Mark Clark,34,F,1,6/28/2025,6/29/2025,1,2000,Hypertension,Recovered,1,No Data,Low Risk
+34,Jorge Torres,90,F,2,6/5/2025,6/17/2025,2,8024,Diabetes,Complicated,12,No Data,High Risk
+35,Daniel Cooper,66,F,8,3/4/2025,4/6/2025,1,2000,Arthritis,Recovered,33,No Data,High Risk
+36,Jorge Ross,82,F,1,3/5/2025,5/11/2025,1,3923,Hypertension,Recovered,67,Normal,High Risk
+37,Emily Medina,48,F,4,6/1/2025,6/8/2025,1,3318,Asthma,Recovered,7,Normal,Low Risk
+38,Sabrina Roy,67,F,2,6/6/2025,6/17/2025,1,6993,Diabetes,Recovered,11,High,High Risk
+39,Benjamin Chase,60,M,1,2/24/2025,2/28/2025,1,4630,Hypertension,Recovered,4,Normal,Low Risk
+40,Kevin Barnes,48,M,2,3/16/2025,3/19/2025,2,3968,Diabetes,Complicated,3,High,High Risk
+41,Megan King,50,F,1,12/1/2025,12/16/2025,1,3356,Hypertension,Recovered,15,No Data,Low Risk
+42,Mark Hayes,58,F,5,3/23/2025,3/27/2025,2,4781,Stroke,Complicated,4,Normal,High Risk
+43,Lori Castillo,67,F,3,12/5/2025,12/17/2025,1,5005,Heart Disease,Recovered,12,No Data,High Risk
+44,Nicole Bell,66,M,2,2/14/2025,2/20/2025,1,4242,Diabetes,Recovered,6,No Data,High Risk
+45,Kimberly Gomez,42,F,4,1/20/2025,1/21/2025,1,2000,Asthma,Recovered,1,High,Low Risk
+46,Lori Alexander,65,F,1,10/3/2025,10/15/2025,2,5342,Hypertension,Complicated,12,No Data,High Risk
+47,Edward Rivera,56,M,4,10/1/2025,10/11/2025,1,2000,Asthma,Recovered,10,No Data,Low Risk
+48,Jorge Sanchez,26,M,6,5/14/2025,5/18/2025,1,3321,COPD,Recovered,4,No Data,Low Risk
+49,Laura Price,84,M,9,9/1/2025,9/17/2025,1,5137,Kidney Disease,Recovered,16,Normal,High Risk
+50,Jorge Hayes,65,M,1,1/22/2025,1/28/2025,1,2975,Hypertension,Recovered,6,Normal,Low Risk
+51,Kimberly Torres,66,F,6,9/6/2025,9/25/2025,1,7662,COPD,Recovered,19,Normal,High Risk
+52,Jennifer Clark,71,M,9,3/29/2025,4/5/2025,3,5889,Kidney Disease,Deceased,7,Normal,High Risk
+53,Sarah Chase,55,M,5,2/22/2025,3/6/2025,2,9087,Stroke,Complicated,12,No Data,High Risk
+54,Edward Logan,43,M,4,4/25/2025,4/29/2025,1,3562,Asthma,Recovered,4,Normal,Low Risk
+55,Jack Foster,60,M,2,3/21/2025,3/30/2025,1,5858,Diabetes,Recovered,9,High,Low Risk
+56,Melinda Cooper,50,M,8,6/13/2025,6/15/2025,1,3017,Arthritis,Recovered,2,High,Low Risk
+57,Emily Cook,72,F,8,3/16/2025,3/19/2025,3,3676,Arthritis,Deceased,3,No Data,High Risk
+58,Gina Robinson,46,F,1,3/16/2025,3/18/2025,1,2233,Hypertension,Recovered,2,Normal,Low Risk
+59,Kevin Wood,77,F,9,4/1/2025,4/12/2025,1,6499,Kidney Disease,Recovered,11,No Data,High Risk
+60,Edward Rogers,31,M,5,3/2/2025,3/10/2025,1,4501,Stroke,Recovered,8,Normal,Low Risk
+61,Benjamin Ryan,68,M,10,1/31/2025,2/15/2025,2,9574,Liver Disease,Complicated,15,No Data,High Risk
+62,Heather Price,57,F,10,8/4/2025,8/22/2025,2,9204,Liver Disease,Complicated,18,No Data,High Risk
+63,Gina Lynch,72,M,6,12/6/2025,12/21/2025,2,10000,COPD,Complicated,15,No Data,High Risk
+64,Gina Henderson,73,M,1,11/1/2025,11/20/2025,1,7052,Hypertension,Recovered,19,No Data,High Risk
+65,Laura Hayes,57,F,10,3/28/2025,4/15/2025,2,10000,Liver Disease,Complicated,18,No Data,High Risk
+66,Thomas Murphy,70,M,8,6/4/2025,6/8/2025,1,4121,Arthritis,Recovered,4,Normal,High Risk
+67,Nicholas Bailey,63,F,9,6/23/2025,6/30/2025,2,7021,Kidney Disease,Complicated,7,No Data,High Risk
+68,Melinda Wilcox,90,M,1,3/22/2025,3/25/2025,1,3461,Hypertension,Recovered,3,No Data,High Risk
+69,Michael Montes,51,F,8,6/3/2025,6/7/2025,1,2000,Arthritis,Recovered,4,High,Low Risk
+70,Jack Watts,57,M,9,5/20/2025,5/30/2025,1,5548,Kidney Disease,Recovered,10,No Data,Low Risk
+71,Lori Bailey,70,M,7,3/2/2025,3/14/2025,2,8801,Cancer,Complicated,12,Normal,High Risk
+72,Cody Foster,74,M,6,1/13/2025,1/20/2025,1,4539,COPD,Recovered,7,No Data,High Risk
+73,Rachel Roy,38,F,9,1/26/2025,2/4/2025,2,5439,Kidney Disease,Complicated,9,Normal,High Risk
+74,Stacy Cook,31,F,4,6/18/2025,6/22/2025,1,3889,Asthma,Recovered,4,Normal,Low Risk
+75,Nicole Green,80,M,4,1/14/2025,1/17/2025,2,3222,Asthma,Complicated,3,Normal,High Risk
+76,Jeanne Morgan,50,F,6,1/29/2025,2/6/2025,1,4938,COPD,Recovered,8,No Data,Low Risk
+77,Megan Logan,47,M,1,6/20/2025,6/23/2025,2,3873,Hypertension,Complicated,3,No Data,High Risk
+78,Heather Ward,56,F,1,4/6/2025,6/9/2025,1,3289,Hypertension,Recovered,64,No Data,Low Risk
+79,James Sanchez,43,M,2,2/22/2025,2/26/2025,1,3219,Diabetes,Recovered,4,High,Low Risk
+80,Edward Wright,40,F,10,6/25/2025,7/5/2025,1,7363,Liver Disease,Recovered,10,No Data,Low Risk
+81,Mark Rogers,71,M,2,6/29/2025,7/6/2025,1,3516,Diabetes,Recovered,7,No Data,High Risk
+82,Daniel Ward,49,M,7,1/22/2025,1/26/2025,2,5174,Cancer,Complicated,4,High,High Risk
+83,Heather King,59,F,10,3/19/2025,4/2/2025,1,7186,Liver Disease,Recovered,14,No Data,Low Risk
+84,Stacy Wright,34,M,4,3/25/2025,3/30/2025,1,3987,Asthma,Recovered,5,Normal,Low Risk
+85,Jeanne Rogers,51,M,7,3/2/2025,3/23/2025,3,10000,Cancer,Deceased,21,No Data,High Risk
+86,David Murphy,66,M,3,2/4/2025,4/8/2025,1,4473,Heart Disease,Recovered,63,No Data,High Risk
+87,Mark Murphy,34,F,4,2/28/2025,3/1/2025,1,2000,Asthma,Recovered,1,No Data,Low Risk
+88,Melinda Alexander,53,F,1,11/3/2025,11/14/2025,2,4211,Hypertension,Complicated,11,Normal,High Risk
+89,Heather Lynch,55,M,5,1/28/2025,2/20/2025,2,10000,Stroke,Complicated,23,Normal,High Risk
+90,Robert Butler,69,F,1,9/4/2025,9/12/2025,1,3349,Hypertension,Recovered,8,No Data,High Risk
+91,Angela Ross,59,F,2,4/27/2025,5/3/2025,2,5272,Diabetes,Complicated,6,High,High Risk
+92,Lori Ross,45,M,2,5/19/2025,5/22/2025,1,2543,Diabetes,Recovered,3,No Data,Low Risk
+93,Daniel Roy,77,F,6,6/19/2025,6/24/2025,1,3563,COPD,Recovered,5,No Data,High Risk
+94,Gina Barnes,49,F,9,4/28/2025,5/12/2025,1,8050,Kidney Disease,Recovered,14,No Data,Low Risk
+95,Emily Logan,29,M,2,9/5/2025,9/11/2025,1,2537,Diabetes,Recovered,6,No Data,Low Risk
+96,Thomas Green,58,F,2,11/5/2025,11/16/2025,1,5365,Diabetes,Recovered,11,No Data,Low Risk
+97,Christian Wright,52,F,7,5/31/2025,6/16/2025,2,8861,Cancer,Complicated,16,No Data,High Risk
+98,Amanda Bell,66,F,4,5/24/2025,5/25/2025,2,3104,Asthma,Complicated,1,No Data,High Risk
+99,Jeanne Alexander,55,F,2,3/22/2025,3/29/2025,1,4450,Diabetes,Recovered,7,No Data,Low Risk
+100,Lori Patel,65,F,7,6/3/2025,6/11/2025,1,5169,Cancer,Recovered,8,Normal,Low Risk
+101,Gina Ward,30,F,1,5/19/2025,5/21/2025,1,3017,Hypertension,Recovered,2,No Data,Low Risk
+102,Nicholas Henderson,51,F,2,3/3/2025,3/7/2025,1,3376,Diabetes,Recovered,4,High,Low Risk
+103,Nicole Bennett,63,F,3,7/2/2025,7/10/2025,1,3415,Heart Disease,Recovered,8,Normal,Low Risk
+104,Stacy Patel,46,F,9,1/6/2025,2/13/2025,1,6388,Kidney Disease,Recovered,38,Normal,Low Risk
+105,Robert Zimmerman,74,F,3,3/28/2025,4/5/2025,2,7394,Heart Disease,Complicated,8,Normal,High Risk
+106,Nicholas Clark,31,M,2,2/19/2025,2/21/2025,1,3170,Diabetes,Recovered,2,High,Low Risk
+107,Benjamin Zimmerman,63,F,4,1/1/2025,1/4/2025,1,2078,Asthma,Recovered,3,No Data,Low Risk
+108,Kimberly Chase,51,M,4,4/20/2025,4/22/2025,1,2389,Asthma,Recovered,2,No Data,Low Risk
+109,Jorge Foster,48,F,5,5/2/2025,5/10/2025,2,5646,Stroke,Complicated,8,Normal,High Risk
+110,Jorge Murphy,64,M,6,5/21/2025,5/23/2025,1,3413,COPD,Recovered,2,Normal,Low Risk
+111,Nicole Barnes,54,M,1,12/5/2025,12/16/2025,1,3384,Hypertension,Recovered,11,No Data,Low Risk
+112,Nicholas Robinson,52,F,7,3/31/2025,4/12/2025,1,7326,Cancer,Recovered,12,Normal,Low Risk
+113,Steven Ross,82,F,6,4/5/2025,5/21/2025,2,9780,COPD,Complicated,46,High,High Risk
+114,David Chase,86,F,2,3/27/2025,3/30/2025,1,2727,Diabetes,Recovered,3,High,High Risk
+115,Sherry Wright,43,F,3,4/28/2025,5/3/2025,1,4717,Heart Disease,Recovered,5,Normal,Low Risk
+116,Megan Hayes,54,F,8,4/21/2025,4/22/2025,1,2000,Arthritis,Recovered,1,Normal,Low Risk
+117,Michael Price,40,M,7,5/16/2025,5/27/2025,1,6498,Cancer,Recovered,11,No Data,Low Risk
+118,Robert Clark,38,F,1,5/13/2025,5/14/2025,1,2000,Hypertension,Recovered,1,Normal,Low Risk
+119,Cody Ryan,68,M,2,9/4/2025,9/16/2025,1,4211,Diabetes,Recovered,12,High,High Risk
+120,Kimberly Clark,58,F,2,7/5/2025,7/17/2025,1,7018,Diabetes,Recovered,12,No Data,Low Risk
+121,Jorge Ryan,69,M,2,5/1/2025,5/8/2025,2,4651,Diabetes,Complicated,7,No Data,High Risk
+122,Christian Alexander,43,F,10,3/26/2025,3/29/2025,2,4881,Liver Disease,Complicated,3,No Data,High Risk
+123,Jeanne Cooper,73,M,3,4/29/2025,5/3/2025,1,3071,Heart Disease,Recovered,4,Normal,High Risk
+124,Laura Henderson,59,M,9,1/4/2025,4/6/2025,1,3635,Kidney Disease,Recovered,92,Normal,Low Risk
+125,Laura Medina,40,M,9,2/19/2025,2/25/2025,1,4011,Kidney Disease,Recovered,6,Normal,Low Risk
+126,Heather Gomez,48,M,2,9/2/2025,9/18/2025,2,6857,Diabetes,Complicated,16,High,High Risk
+127,James Bell,90,F,5,10/3/2025,10/7/2025,1,10000,Stroke,Recovered,4,High,High Risk
+128,Daniel Montes,66,M,1,5/2/2025,5/11/2025,3,4708,Hypertension,Deceased,9,No Data,High Risk
+129,Cody Bell,77,M,7,4/4/2025,4/15/2025,2,6820,Cancer,Complicated,11,Normal,High Risk
+130,Jeanne Henderson,57,F,4,6/2/2025,6/10/2025,2,4392,Asthma,Complicated,8,No Data,High Risk
+131,Jack Bailey,35,F,1,2/23/2025,2/26/2025,1,3232,Hypertension,Recovered,3,Normal,Low Risk
+132,Jeanne Wilcox,80,M,1,1/28/2025,2/1/2025,2,4285,Hypertension,Complicated,4,High,High Risk
+133,Rachel Barnes,68,M,5,1/6/2025,2/6/2025,2,6557,Stroke,Complicated,31,No Data,High Risk
+134,Thomas Ward,68,F,10,9/3/2025,9/19/2025,1,5490,Liver Disease,Recovered,16,No Data,High Risk
+135,Brian Murphy,62,M,2,11/3/2025,11/16/2025,1,3614,Diabetes,Recovered,13,High,Low Risk
+136,Heather Clark,65,F,3,11/6/2025,11/19/2025,2,7425,Heart Disease,Complicated,13,No Data,High Risk
+137,Cody Ross,67,F,10,5/29/2025,6/7/2025,2,6810,Liver Disease,Complicated,9,High,High Risk
+138,Toni Medina,27,F,4,2/1/2025,2/3/2025,1,2000,Asthma,Recovered,2,No Data,Low Risk
+139,Julie Wright,89,M,10,2/20/2025,3/25/2025,3,10000,Liver Disease,Deceased,33,Normal,High Risk
+140,Melinda Bailey,75,M,8,5/30/2025,6/1/2025,1,2328,Arthritis,Recovered,2,Normal,High Risk
+141,Nicholas Wood,46,F,1,3/28/2025,3/30/2025,1,3042,Hypertension,Recovered,2,No Data,Low Risk
+142,Stacy Wilcox,59,M,2,5/2/2025,5/12/2025,1,5387,Diabetes,Recovered,10,No Data,Low Risk
+143,Jorge Logan,30,M,4,3/13/2025,3/15/2025,1,2000,Asthma,Recovered,2,No Data,Low Risk
+144,Megan Morgan,59,F,8,9/3/2025,9/11/2025,2,3107,Arthritis,Complicated,8,No Data,High Risk
+145,Olivia Rivera,65,F,9,2/27/2025,3/11/2025,1,7197,Kidney Disease,Recovered,12,Normal,Low Risk
+146,Sherry Cooper,78,F,9,4/4/2025,4/16/2025,1,6143,Kidney Disease,Recovered,12,Normal,High Risk
+147,James Roy,59,M,3,4/14/2025,4/19/2025,1,4497,Heart Disease,Recovered,5,No Data,Low Risk
+148,Julie Ward,54,M,2,6/3/2025,6/9/2025,1,2800,Diabetes,Recovered,6,High,Low Risk
+149,Nicholas Watts,53,F,9,3/22/2025,3/23/2025,1,2243,Kidney Disease,Recovered,1,Normal,Low Risk
+150,Cody Morgan,59,F,9,3/19/2025,3/25/2025,1,3724,Kidney Disease,Recovered,6,Normal,Low Risk
+151,Thomas Alexander,53,M,7,3/26/2025,4/7/2025,3,8332,Cancer,Deceased,12,No Data,High Risk
+152,Rachel Watts,68,M,8,10/3/2025,10/14/2025,1,2523,Arthritis,Recovered,11,Normal,High Risk
+153,Robert Barnes,64,F,1,5/17/2025,5/21/2025,1,3599,Hypertension,Recovered,4,No Data,Low Risk
+154,Carol Wood,62,M,4,5/29/2025,5/31/2025,1,2701,Asthma,Recovered,2,Normal,Low Risk
+155,Angela Sanchez,61,M,7,8/5/2025,8/22/2025,1,7190,Cancer,Recovered,17,Normal,Low Risk
+156,Heather Rivera,90,F,4,5/23/2025,5/26/2025,1,2597,Asthma,Recovered,3,No Data,High Risk
+157,Amanda Rogers,39,F,8,2/1/2025,2/4/2025,1,2000,Arthritis,Recovered,3,No Data,Low Risk
+158,Michael Henderson,76,M,7,6/13/2025,6/27/2025,2,9938,Cancer,Complicated,14,No Data,High Risk
+159,Robert Morgan,35,M,3,2/18/2025,3/13/2025,1,10000,Heart Disease,Recovered,23,No Data,Low Risk
+160,Jorge Chase,90,F,2,6/26/2025,7/12/2025,3,8390,Diabetes,Deceased,16,High,High Risk
+161,Laura Ross,51,M,2,5/13/2025,5/18/2025,2,5529,Diabetes,Complicated,5,High,High Risk
+162,Daniel Robinson,58,M,1,2/22/2025,2/24/2025,2,3597,Hypertension,Complicated,2,High,High Risk
+163,Olivia Reed,63,M,5,7/5/2025,7/26/2025,2,10000,Stroke,Complicated,21,No Data,High Risk
+164,Christian Henderson,68,M,6,7/1/2025,7/15/2025,2,6661,COPD,Complicated,14,No Data,High Risk
+165,Megan Lynch,40,M,4,1/15/2025,1/17/2025,1,3207,Asthma,Recovered,2,No Data,Low Risk
+166,Thomas Barnes,88,F,4,6/20/2025,6/24/2025,1,2848,Asthma,Recovered,4,No Data,High Risk
+167,Stacy Morgan,56,M,10,6/18/2025,6/28/2025,2,7376,Liver Disease,Complicated,10,Normal,High Risk
+168,Kevin Henderson,67,F,4,12/5/2025,12/15/2025,2,4933,Asthma,Complicated,10,Normal,High Risk
+169,Toni Ryan,90,M,3,2/26/2025,3/8/2025,1,6047,Heart Disease,Recovered,10,Normal,High Risk
+170,Carol Gomez,44,M,1,8/1/2025,8/10/2025,1,3847,Hypertension,Recovered,9,No Data,Low Risk
+171,Jennifer Sanchez,82,F,7,1/15/2025,1/31/2025,1,8462,Cancer,Recovered,16,No Data,High Risk
+172,Laura Foster,90,M,8,1/20/2025,1/22/2025,1,3122,Arthritis,Recovered,2,No Data,High Risk
+173,David Robinson,69,F,8,8/1/2025,8/9/2025,1,2062,Arthritis,Recovered,8,No Data,High Risk
+174,Jorge Medina,50,F,2,12/6/2025,12/15/2025,1,3667,Diabetes,Recovered,9,No Data,Low Risk
+175,Sherry Morgan,90,F,8,12/1/2025,12/17/2025,1,2743,Arthritis,Recovered,16,No Data,High Risk
+176,Heather Cooper,83,F,4,6/23/2025,6/27/2025,1,3309,Asthma,Recovered,4,No Data,High Risk
+177,Mark Wright,51,M,1,7/2/2025,7/13/2025,1,4245,Hypertension,Recovered,11,No Data,Low Risk
+178,Nicole Gomez,59,M,8,6/14/2025,6/17/2025,1,2000,Arthritis,Recovered,3,No Data,Low Risk
+179,Julie Morgan,76,F,6,5/14/2025,5/19/2025,2,4843,COPD,Complicated,5,No Data,High Risk
+180,Laura Butler,71,M,2,10/2/2025,10/19/2025,1,5843,Diabetes,Recovered,17,High,High Risk
+181,Sabrina Medina,48,F,2,6/3/2025,6/14/2025,1,5286,Diabetes,Recovered,11,High,Low Risk
+182,Melinda Rogers,55,F,4,8/6/2025,8/13/2025,1,4702,Asthma,Recovered,7,No Data,Low Risk
+183,Laura Bell,82,M,4,6/1/2025,6/10/2025,2,4836,Asthma,Complicated,9,No Data,High Risk
+184,Edward Ryan,72,M,9,2/14/2025,2/26/2025,1,6722,Kidney Disease,Recovered,12,Normal,High Risk
+185,Heather Castillo,19,F,6,9/6/2025,9/13/2025,1,2548,COPD,Recovered,7,Normal,Low Risk
+186,Laura Chase,90,F,8,4/15/2025,4/20/2025,1,3055,Arthritis,Recovered,5,Normal,High Risk
+187,Gina Ryan,65,F,4,4/27/2025,4/29/2025,1,2151,Asthma,Recovered,2,No Data,Low Risk
+188,Olivia Henderson,54,M,8,4/4/2025,5/5/2025,2,4009,Arthritis,Complicated,31,No Data,High Risk
+189,Sherry Alexander,58,M,7,3/5/2025,5/12/2025,3,8336,Cancer,Deceased,68,High,High Risk
+190,Nicholas Medina,72,M,6,1/13/2025,1/30/2025,1,9118,COPD,Recovered,17,No Data,High Risk
+191,Nicholas Wilcox,45,F,1,4/22/2025,4/25/2025,1,3745,Hypertension,Recovered,3,High,Low Risk
+192,Julie Watts,59,F,10,6/15/2025,6/25/2025,1,6822,Liver Disease,Recovered,10,No Data,Low Risk
+193,Brian Morgan,75,M,7,2/23/2025,3/17/2025,3,10000,Cancer,Deceased,22,Normal,High Risk
+194,Gina Rogers,76,F,1,2/22/2025,2/25/2025,2,4383,Hypertension,Complicated,3,Normal,High Risk
+195,Stacy Gomez,48,F,6,2/24/2025,3/10/2025,1,6430,COPD,Recovered,14,High,Low Risk
+196,Steven Cooper,64,F,3,1/26/2025,2/10/2025,1,9038,Heart Disease,Recovered,15,Normal,Low Risk
+197,Melinda King,74,F,7,5/27/2025,6/9/2025,1,7217,Cancer,Recovered,13,No Data,High Risk
+198,Gina Clark,57,M,8,6/29/2025,7/6/2025,1,3327,Arthritis,Recovered,7,No Data,Low Risk
+199,Mark Ryan,90,M,2,2/26/2025,3/4/2025,1,3007,Diabetes,Recovered,6,High,High Risk
+200,Olivia Morgan,81,F,3,8/3/2025,8/14/2025,2,5614,Heart Disease,Complicated,11,Normal,High Risk
